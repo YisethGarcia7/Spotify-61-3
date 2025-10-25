@@ -1,5 +1,28 @@
 .page__header {
   display: flex;
   justify-content: space-evenly;
-  margin-bottom: 3rem;
+  margin-bottom: 7em;
+  background-color: black;
+  color:white;
+  }
+    .logo { 
+      width: 300px;
+      height: auto;
+    }
+
+    
+    nav{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 0 15px;
 }
