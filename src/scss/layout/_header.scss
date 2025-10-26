@@ -1,6 +1,6 @@
 .page__header {
   display: flex;
-  justify-content: space-evenly;
+  justify-content:space-between;
   margin-bottom: 7em;
   background-color: black;
   color:white;
@@ -16,7 +16,7 @@
     nav{
     display: flex;
     justify-content: space-around;
-}
+  }
 ul{
   list-style: none;
   display: flex;
@@ -26,13 +26,14 @@ a {
   text-decoration: none;
   color: white;
   font-weight: bold;
-  margin: 0 10px;
+  margin:  11px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: small;
 }
 
 .icono {
 padding: 15px;
+
 }
 
 .help {
